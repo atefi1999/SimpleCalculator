@@ -1,6 +1,6 @@
 # 🔢 Simple Calculator CLI App
 
-A simple Command-Line Interface (CLI) program to perform basic mathematical operations (addition, subtraction, multiplication, division) with the ability to store and display calculation history.
+### A simple Command-Line Interface (CLI) program to perform basic mathematical operations (addition, subtraction, multiplication, division) with the ability to store and display calculation history.
 
 ---
 
@@ -62,7 +62,9 @@ Enter second number: 8
 
 ## 📂 Project Structure
 
+```markdown
 calculator/
 │
 ├── simple_calculator.py # Main program code
 └── README.md # Project documentation
+```
