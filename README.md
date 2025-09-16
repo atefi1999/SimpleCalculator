@@ -68,7 +68,7 @@ Enter second number: 8
 ## 📂 Project Structure
 
 ```markdown
-calculator/
+SimpleCalculator/
 │
 ├── simple_calculator.py # Main program code
 └── README.md # Project documentation
