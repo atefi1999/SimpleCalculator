@@ -68,3 +68,4 @@ calculator/
 ├── simple_calculator.py # Main program code
 └── README.md # Project documentation
 ```
+<img width="1024" height="1024" alt="screenshot" src="https://github.com/user-attachments/assets/29a790f2-55a9-463e-b500-abfb00c203d2" />
