@@ -54,7 +54,7 @@ Enter second number: 8
 
 ## 🎥 Demo
 
-<img  alt="screenshot" src="https://github.com/user-attachments/assets/29a790f2-55a9-463e-b500-abfb00c203d2"  width="40%" />
+<img  alt="screenshot" src="https://github.com/user-attachments/assets/29a790f2-55a9-463e-b500-abfb00c203d2"  width="35%" />
 
 ---
 
